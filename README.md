@@ -13,7 +13,7 @@ When done it will feature (exact list TBD):
 
 
 ```shell
-npm i -g serverless # make sure you have serverless framework verison 1.34.0 or greater
+npm i -g serverless # make sure you have serverless framework version 1.34.0 or greater
 make
 sls deploy
 cd example
